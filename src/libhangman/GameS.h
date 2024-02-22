@@ -1,7 +1,7 @@
-#include <stdio.h> 
-#include <stdlib.h> 
-#include <string.h> 
-#include <time.h> 
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
 
 #define MAX_WORD_LENGTH 100
 // Функция для выбора случайного слова из определенной темы
